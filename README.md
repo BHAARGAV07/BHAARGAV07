@@ -32,7 +32,7 @@ I am open to **internships, collaborations, and networking opportunities**.
   <a href="mailto:bhaargavkc@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhaargavkc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bhaargavkc-82456b28b">
+  <a href="https://www.linkedin.com/in/bhaargav-kc-82456b28b/">
     <img src="https://img.shields.io/badge/LinkedIn-Bhaargav%20KC-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="tel:7530066784">
