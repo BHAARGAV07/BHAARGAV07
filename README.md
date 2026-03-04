@@ -50,7 +50,6 @@ I am open to **internships, collaborations, and networking opportunities**.
   <img src="https://img.icons8.com/color/48/html-5--v1.png" width="40"/>
   <img src="https://img.icons8.com/color/48/css3.png" width="40"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="40"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" width="40"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" width="40"/>
 </p>
