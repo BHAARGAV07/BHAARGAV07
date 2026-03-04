@@ -29,7 +29,7 @@ I am open to **internships, collaborations, and networking opportunities**.
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="mailto:bhaargavkc@gmail.com">
+  <a href="mailto:bhaargavkc07@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhaargavkc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/bhaargav-kc-82456b28b/">
