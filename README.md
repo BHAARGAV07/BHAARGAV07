@@ -117,9 +117,9 @@ Bachelor of Technology – Computer Science and Business Systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BHAARGAV07&show_icons=true&theme=tokyonight"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAARGAV07&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
