@@ -1,7 +1,7 @@
 # 🚀 Bhaargav K C
 
 <p align="center">
-  <b>Aspiring Frontend Developer | Problem Solver | 2nd Year Engineering Student</b><br>
+  <b>Web Developer | Problem Solver | 3rd Year Engineering Student</b><br>
   RMK Engineering College, Chennai
 </p>
 
@@ -12,15 +12,15 @@
 🎓 B.Tech – Computer Science and Business Systems
 📍 Chennai, Tamil Nadu, India
 
-I am a passionate **Front-End Developer** who loves building responsive and visually engaging web applications.
-I focus on transforming ideas into interactive user experiences using modern front-end technologies.
+I am a passionate **Web Developer** who loves building responsive and visually engaging web applications.
+I focus on transforming ideas into interactive user experiences using modern web technologies.
 
 Currently exploring:
 
 * UI/UX Design
 * Git & GitHub workflows
 * Modern frontend tooling
-* Advanced React concepts
+* React & component-based architecture
 
 I am open to **internships, collaborations, and networking opportunities**.
 
@@ -30,9 +30,9 @@ I am open to **internships, collaborations, and networking opportunities**.
 
 <p align="left">
   <a href="mailto:bhaargavkc07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhaargavkc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-bhaargavkc07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bhaargav-kc-82456b28b/">
+  <a href="https://www.linkedin.com/in/bhaargav-kc/">
     <img src="https://img.shields.io/badge/LinkedIn-Bhaargav%20KC-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="tel:7530066784">
@@ -44,31 +44,23 @@ I am open to **internships, collaborations, and networking opportunities**.
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend Development
+### 💻 Web Development
 
 <p>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="40" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="40" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" width="40" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" title="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" width="40" title="Tailwind CSS"/>
 </p>
 
 ### ⚙️ Tools & Workflow
 
 <p>
-  <img src="https://img.icons8.com/color/48/git.png" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/github.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" width="40" title="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" width="40" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40" title="VS Code"/>
 </p>
-
----
-
-## 🧠 Top Skills
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-Markup-E34F26?style=flat\&logo=html5\&logoColor=white)
 
 ---
 
@@ -78,9 +70,21 @@ I am open to **internships, collaborations, and networking opportunities**.
 
 📅 Jan 2025 – Feb 2025
 
-* Developed responsive web interfaces
-* Improved UI performance and layout consistency
-* Worked with modern frontend practices
+* Built and deployed responsive web interfaces used in live projects
+* Identified and resolved UI inconsistencies, improving layout accuracy across screen sizes
+* Applied modern HTML, CSS, and JavaScript best practices in a team environment
+
+---
+
+## 🚀 Projects
+
+### 🔗 [Project Name] *(Add your best project here)*
+
+* Brief description of what it does and the problem it solves
+* Tech used: HTML, CSS, JavaScript, Bootstrap
+* [Live Demo](#) | [GitHub Repo](#)
+
+> 💡 *Tip: Add 2–3 real projects with links — this is the most viewed section by recruiters!*
 
 ---
 
@@ -88,7 +92,7 @@ I am open to **internships, collaborations, and networking opportunities**.
 
 **R.M.K Engineering College**
 Bachelor of Technology – Computer Science and Business Systems
-📅 Started: September 2024
+📅 2024 – 2028 | Currently in 3rd Semester
 
 ---
 
@@ -107,7 +111,7 @@ Bachelor of Technology – Computer Science and Business Systems
   <img src="https://img.icons8.com/color/48/light-on.png" width="40"/>
 </p>
 
-* Frontend Development
+* Web Development
 * UI/UX Design
 * Problem Solving
 * Continuous Learning
@@ -126,11 +130,8 @@ Bachelor of Technology – Computer Science and Business Systems
 
 ## 🔥 Motto
 
-> “Build. Learn. Improve. Repeat.”
+> "Build. Learn. Improve. Repeat."
 
 ---
 
 # ⭐ Thanks for visiting my profile!
-
----
-
