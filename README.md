@@ -1,105 +1,233 @@
-<h1 align="center">Hi, I'm Bhaargav 👋</h1>
-<h3 align="center">Web Developer & Full-Stack Explorer | CSBS @ RMK Engineering College</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Chennai%2C%20India-📍-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/B.Tech-CSBS%20'28-6366F1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-success?style=flat-square"/>
-</p>
+<div align="center">
 
-<p align="center">
-  I build interactive, real-world products — from AI-powered agent platforms to real-time collaborative editors —
-  and I'm currently deep in React, Node.js, and AI-integrated systems.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,75:1E3A8A,100:06B6D4&height=220&section=header&text=Bhaargav%20K.C&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20FULL-STACK%20BUILDER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="mailto:bhaargavkc07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bhaargav-kc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/BHAARGAV07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1V0U3vgK3iZyQlx644J1r2Ut2P3ArtvXj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-</p>
+<a href="https://github.com/BHAARGAV07"><img src="https://img.shields.io/badge/GitHub-BHAARGAV07-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/bhaargav-kc-82456b28b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:bhaargavkc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://drive.google.com/file/d/1V0U3vgK3iZyQlx644J1r2Ut2P3ArtvXj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
-<br>
+<img src="https://img.shields.io/badge/Chennai%2C%20India-Location-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/RMK%20Engineering%20College-CSBS-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/Class%20of-2028-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20to-Internships-16A34A?style=flat-square" />
+
+### Building useful products at the intersection of web engineering and AI.
+
+I'm a **Computer Science and Business Systems student** at **R.M.K. Engineering College**. I enjoy turning ideas into practical software — from multi-agent AI platforms and scam-intelligence systems to collaborative web applications.
+
+Currently exploring **React, TypeScript, Java, backend engineering, and AI-integrated applications**.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSBS student at R.M.K. Engineering College, Chennai — **2024–2028**
+- 💻 Interested in **Frontend and Full-Stack Development**
+- 🤖 Building with **LLMs, multi-agent workflows, RAG, and automation**
+- 🧩 Strengthening my foundations in **Java, OOP, and Data Structures & Algorithms**
+- 🤝 Interested in internships, hackathons, and collaborative real-world projects
+- 📍 Based in Chennai, Tamil Nadu, India
+
+---
 
 ## 🚀 Featured Projects
 
-### 🛡️ [BlockSafe](https://github.com/bhargava562/block-safe) — Autonomous Cognitive Firewall
-A hackathon-built threat-intelligence engine that intervenes *before* a user falls for a scam, rather than blocking links after the fact.
-- Cognitive risk engine detects psychological manipulation (urgency, fear, authority) instead of just keyword matching
-- Autonomous Telegram honeypot agent engages scammers directly, converting attacks into structured, ML-ready threat intelligence
-- LangGraph multi-agent routing on Groq's Llama-3.3-70B, with DeepSeek-V3 as a high-availability fallback
-- React + Recharts admin dashboard for live threat monitoring and dataset export
-- **Stack:** Python, FastAPI, LangGraph, Groq, DeepSeek, Supabase, React, Docker
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 [Chakro AI — VBDP](https://github.com/bhargava562/Chakro-AI-VBDP) — AI Business Development Partner
-An enterprise-style SaaS platform that automates opportunity discovery, security vetting, and proposal generation for hackathons and tenders.
-- Multi-agent "swarm" architecture (Discovery, Security, Analysis, Response agents) coordinated by a Master Agent
-- Built on Java 25 Virtual Threads for high-concurrency orchestration, integrated with Groq's Llama-3 via LangChain4j
-- React 19 + Vite frontend with Zustand state management and Shadcn UI components
-- **Stack:** Java, Spring Boot, LangChain4j, Groq, React, Supabase (PostgreSQL)
+### 🛡️ [Block-Safe](https://github.com/bhargava562/block-safe)
 
-### 📝 [CollabNotes](https://github.com/BHAARGAV07/collabnotes) — Real-Time Collaborative Note-Taking App
-A Notion-style workspace supporting live multi-user editing, scoped as a 5–6 week portfolio build.
-- Real-time CRDT sync via Yjs + WebSockets, rich block-based editing with Tiptap
-- JWT auth with role-based permissions (Owner / Editor / Viewer) enforced on both REST and WebSocket layers
-- Nested pages, live cursor presence, and public read-only share links
-- **Stack:** React, Node.js, Express, PostgreSQL, Yjs, Tiptap
+**Autonomous Cognitive Firewall & Threat Intelligence Engine**
 
-> 💡 Add live-demo links as projects go live — recruiters check this section first.
+A proactive scam-protection system designed to intervene during the user's decision-making window — before a harmful action is taken.
 
-<br>
+- Cognitive risk analysis for manipulation patterns such as urgency, fear, and authority.
+- Telegram honeypot agent for engaging suspicious actors and extracting threat intelligence.
+- LangGraph-based agent orchestration with LLM-powered analysis.
+- React analytics dashboard for threat monitoring and dataset exploration.
+
+**Stack:** Python · FastAPI · LangGraph · Groq · DeepSeek · React · Supabase · Docker
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Chakro AI — VBDP](https://github.com/bhargava562/Chakro-AI-VBDP)
+
+**Virtual Business Development Partner**
+
+A multi-agent platform designed to help MSMEs discover opportunities, assess risks, analyze requirements, and prepare responses for tenders and hackathons.
+
+- Master-agent orchestration across Discovery, Security, Analysis, and Response agents.
+- Java Virtual Threads for concurrent agent workflows.
+- LLM integration through LangChain4j and Groq.
+- React 19 + Vite interface with Zustand and Shadcn UI.
+
+**Stack:** Java · Spring Boot · LangChain4j · Groq · React · Supabase · PostgreSQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [CollabNotes](https://github.com/BHAARGAV07/collabnotes)
+
+**Real-Time Collaborative Note-Taking Workspace**
+
+A Notion-style workspace focused on structured notes and multi-user editing.
+
+- Yjs CRDT synchronization over WebSockets.
+- Rich block-based editing with Tiptap.
+- JWT authentication and Owner / Editor / Viewer permissions.
+- Nested pages, cursor presence, and read-only share links.
+
+**Status:** In progress
+
+**Stack:** React · Node.js · Express · PostgreSQL · Yjs · Tiptap
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+**Personal Developer Website**
+
+A portfolio experience to present projects, technical skills, and professional work.
+
+- React-based frontend.
+- Backend service with PostgreSQL and Prisma.
+- JWT-protected admin functionality.
+- Resend-powered contact email workflow.
+
+**Stack:** React · PostgreSQL · Prisma · JWT · Resend
+
+**Repository / Live Demo:** Coming soon
+
+</td>
+</tr>
+</table>
+
+### More Projects
+
+| Project | Description | Technologies | Repository |
+|---|---|---|---|
+| **Certificate Automation** | Modular certificate generation and distribution through participant-source, template, storage, and delivery integrations. | Python | Coming soon |
+| **Digital OPD Platform** | Appointment booking, patient check-in, live queue management, and digital prescriptions with role-based workflows. | Flutter, FastAPI, Supabase | Coming soon |
+| **Ocular Allergy Management App** | Rule-based trigger detection and risk scoring, with logistic-regression-based flare prediction. | Flutter, FastAPI, PostgreSQL | Coming soon |
+| **TN-EPIC** | Tamil Nadu tourism gamification concept with AR navigation, Google Maps, and an AI guide. | Flutter, AR, Google Maps | Coming soon |
+
+---
 
 ## 💼 Experience
 
-**Web Developer Intern — InternPe** · *Jan 2025 – Feb 2025*
-- Built and deployed responsive web interfaces used in live projects
-- Fixed UI inconsistencies, improving layout accuracy across screen sizes
-- Applied modern HTML/CSS/JS best practices in a team setting
+### Java Developer Intern — Cognifyz Technologies
 
-<br>
+*Remote · May 2025 – June 2025*
 
-## 🛠️ Skills
+- Developed Java applications applying OOP concepts including encapsulation, inheritance, polymorphism, and abstraction.
+- Practised Java Collections Framework concepts and exception handling.
+- Worked with Java I/O for file-based data persistence.
+- Completed assigned development tasks in a remote internship environment.
+
+### Web Development Intern — InternPe
+
+*January 2025 – February 2025*
+
+- Built and deployed responsive web interfaces for practical projects.
+- Improved UI consistency and layout behaviour across screen sizes.
+- Applied HTML, CSS, and JavaScript best practices.
+
+### Tech Wing Member — Google Developer Group
+
+*R.M.K. Engineering College · Since May 2026*
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
 
 **Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</p>
 
-**Backend & Data**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 
-**AI & Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+**Backend, Databases & AI**
 
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,postgres,mysql,supabase" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
+
+</div>
+
+**Also working with:** LangGraph · LangChain · LangChain4j · RAG · Yjs · Tiptap · Prisma · REST APIs
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥈 **Second Place** — Yet Another Hackathon 2026, SVCE.
+- 📄 **LOVRS Research Paper** — Conditionally accepted for oral presentation at ICAIMS 2026; research on a fog-aware vehicle speed advisory system.
+- 💡 **Nimirndhu Nil Hackathon** — Participated in the Ideation Camp organized with EDII-TN / TNYIEDP, Thiruvallur.
+- 🎓 **Infosys Springboard** — Front-End Web Development certification.
+- ☕ **HackerRank** — Java (Basic) certification.
+
+---
 
 ## 🎓 Education
-**R.M.K Engineering College** — B.Tech, Computer Science and Business Systems (2024 – 2028)
 
-## 📜 Certifications
-![Java](https://img.shields.io/badge/Java-Basic-007396?style=flat-square&logo=java&logoColor=white)
+**R.M.K. Engineering College, Chennai**
 
-<br>
+B.Tech — Computer Science and Business Systems (CSBS)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BHAARGAV07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAARGAV07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+2024 – 2028 · CGPA: **7.44 / 10**
 
-<p align="center"><i>Build. Learn. Improve. Repeat.</i></p>
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BHAARGAV07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAARGAV07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=BHAARGAV07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🔗 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Bhaargav07/">LeetCode</a> ·
+<a href="https://www.hackerrank.com/profile/bhaargavkc">HackerRank</a> ·
+<a href="https://codolio.com/profile/BHAARGAV07">Codolio</a> ·
+<a href="https://github.com/BHAARGAV07">GitHub</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Meaningful
+
+<a href="mailto:bhaargavkc@gmail.com">bhaargavkc@gmail.com</a>
+
+*Build. Learn. Improve. Repeat.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:1E3A8A,70:0F172A,100:020617&height=140&section=footer&animation=fadeIn" width="100%" />
+
+</div>
