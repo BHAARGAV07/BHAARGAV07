@@ -32,7 +32,17 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 ---
 
-## 🚀 Featured Projects
+## `./projects`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/terminal-root%40bhaargav%3A~%24%20ls%20.%2Fprojects-020605?style=flat-square&labelColor=020605&color=00ff9c" alt="root at bhaargav terminal prompt" />
+
+<sub><code>INDEX MODE: PRIMARY CASE FILES · ACCESS: PUBLIC · SIGNAL: STABLE</code></sub>
+
+</div>
+
+The project index is rendered as a set of terminal case files: compact evidence, capabilities, stack, and source for each build.
 
 <div align="center">
 
@@ -42,19 +52,21 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 </div>
 
-### More Projects
+### `./projects/additional`
 
 <div align="center">
+
+<sub><code>ARCHIVE // TWO ACTIVE FILES RETAINED FOR REFERENCE</code></sub>
 
 <img src="card-certificate-automation.svg" alt="Certificate Automation project card" width="49%" /> <img src="card-ocular-allergy-app.svg" alt="Ocular Allergy Management App project card" width="49%" />
 
 </div>
 
-## 🖼️ SVG Assets
+## 🗂️ Project Assets
 
 | Asset | Purpose |
 | --- | --- |
-| [profile-graph.svg](profile-graph.svg) | Animated investigation-board profile overview |
+| [profile-graph.svg](profile-graph.svg) | Profile investigation-board overview |
 | [card-block-safe.svg](card-block-safe.svg) | Block-Safe project card |
 | [card-chakro-ai-vbdp.svg](card-chakro-ai-vbdp.svg) | Chakro AI VBDP project card |
 | [card-collabnotes.svg](card-collabnotes.svg) | CollabNotes project card |
