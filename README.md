@@ -50,6 +50,18 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 </div>
 
+## 🖼️ SVG Assets
+
+| Asset | Purpose |
+| --- | --- |
+| [profile-graph.svg](profile-graph.svg) | Animated investigation-board profile overview |
+| [card-block-safe.svg](card-block-safe.svg) | Block-Safe project card |
+| [card-chakro-ai-vbdp.svg](card-chakro-ai-vbdp.svg) | Chakro AI VBDP project card |
+| [card-collabnotes.svg](card-collabnotes.svg) | CollabNotes project card |
+| [card-portfolio.svg](card-portfolio.svg) | Personal portfolio project card |
+| [card-certificate-automation.svg](card-certificate-automation.svg) | Certificate Automation project card |
+| [card-ocular-allergy-app.svg](card-ocular-allergy-app.svg) | Ocular Allergy Management App project card |
+
 ---
 
 ## 💼 Experience
