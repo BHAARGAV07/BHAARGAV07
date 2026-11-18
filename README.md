@@ -27,7 +27,7 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 ## 👨‍💻 About Me
 
 <div align="center">
-<img src="investigation-graph.svg" alt="Investigation-board style profile graph for Bhaargav K.C" width="100%" />
+<img src="profile-graph.svg" alt="Investigation-board style profile graph for Bhaargav K.C" width="100%" />
 </div>
 
 ---
@@ -36,9 +36,9 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 <div align="center">
 
-<a href="https://github.com/bhargava562/block-safe"><img src="block-safe.svg" alt="Block-Safe project card" width="49%" /></a> <a href="https://github.com/bhargava562/Chakro-AI-VBDP"><img src="chakro-ai-vbdp.svg" alt="Chakro AI VBDP project card" width="49%" /></a>
+<a href="https://github.com/bhargava562/block-safe"><img src="card-block-safe.svg" alt="Block-Safe project card" width="49%" /></a> <a href="https://github.com/bhargava562/Chakro-AI-VBDP"><img src="card-chakro-ai-vbdp.svg" alt="Chakro AI VBDP project card" width="49%" /></a>
 
-<a href="https://github.com/BHAARGAV07/collabnotes"><img src="collabnotes.svg" alt="CollabNotes project card" width="49%" /></a> <img src="portfolio.svg" alt="Personal portfolio project card" width="49%" />
+<a href="https://github.com/BHAARGAV07/collabnotes"><img src="card-collabnotes.svg" alt="CollabNotes project card" width="49%" /></a> <img src="card-portfolio.svg" alt="Personal portfolio project card" width="49%" />
 
 </div>
 
@@ -46,7 +46,7 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 <div align="center">
 
-<img src="certificate-automation.svg" alt="Certificate Automation project card" width="49%" /> <img src="ocular-allergy-app.svg" alt="Ocular Allergy Management App project card" width="49%" />
+<img src="card-certificate-automation.svg" alt="Certificate Automation project card" width="49%" /> <img src="card-ocular-allergy-app.svg" alt="Ocular Allergy Management App project card" width="49%" />
 
 </div>
 
