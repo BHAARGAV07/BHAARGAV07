@@ -1,7 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,75:1E3A8A,100:06B6D4&height=220&section=header&text=Bhaargav%20K.C&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20FULL-STACK%20BUILDER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
+# Bhaargav K.C
+
+**Web Developer | Full-Stack Builder | AI Enthusiast**
 
 <a href="https://github.com/BHAARGAV07"><img src="https://img.shields.io/badge/GitHub-BHAARGAV07-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://www.linkedin.com/in/bhaargav-kc-82456b28b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
@@ -25,100 +26,39 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSBS student at R.M.K. Engineering College, Chennai — **2024–2028**
-- 💻 Interested in **Frontend and Full-Stack Development**
-- 🤖 Building with **LLMs, multi-agent workflows, RAG, and automation**
-- 🧩 Strengthening my foundations in **Java, OOP, and Data Structures & Algorithms**
-- 🤝 Interested in internships, hackathons, and collaborative real-world projects
-- 📍 Based in Chennai, Tamil Nadu, India
+<div align="center">
+<img src="assets/terminal-intro.svg" alt="Terminal introduction for Bhaargav K.C" width="100%" />
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🛡️ [Block-Safe](https://github.com/bhargava562/block-safe)
+<a href="https://github.com/bhargava562/block-safe"><img src="assets/projects/block-safe.svg" alt="Block-Safe project card" width="100%" /></a>
 
-**Autonomous Cognitive Firewall & Threat Intelligence Engine**
+<a href="https://github.com/bhargava562/Chakro-AI-VBDP"><img src="assets/projects/chakro-ai-vbdp.svg" alt="Chakro AI VBDP project card" width="100%" /></a>
 
-A proactive scam-protection system designed to intervene during the user's decision-making window — before a harmful action is taken.
+<a href="https://github.com/BHAARGAV07/collabnotes"><img src="assets/projects/collabnotes.svg" alt="CollabNotes project card" width="100%" /></a>
 
-- Cognitive risk analysis for manipulation patterns such as urgency, fear, and authority.
-- Telegram honeypot agent for engaging suspicious actors and extracting threat intelligence.
-- LangGraph-based agent orchestration with LLM-powered analysis.
-- React analytics dashboard for threat monitoring and dataset exploration.
+<img src="assets/projects/portfolio.svg" alt="Personal portfolio project card" width="100%" />
 
-**Stack:** Python · FastAPI · LangGraph · Groq · DeepSeek · React · Supabase · Docker
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [Chakro AI — VBDP](https://github.com/bhargava562/Chakro-AI-VBDP)
-
-**Virtual Business Development Partner**
-
-A multi-agent platform designed to help MSMEs discover opportunities, assess risks, analyze requirements, and prepare responses for tenders and hackathons.
-
-- Master-agent orchestration across Discovery, Security, Analysis, and Response agents.
-- Java Virtual Threads for concurrent agent workflows.
-- LLM integration through LangChain4j and Groq.
-- React 19 + Vite interface with Zustand and Shadcn UI.
-
-**Stack:** Java · Spring Boot · LangChain4j · Groq · React · Supabase · PostgreSQL
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 [CollabNotes](https://github.com/BHAARGAV07/collabnotes)
-
-**Real-Time Collaborative Note-Taking Workspace**
-
-A Notion-style workspace focused on structured notes and multi-user editing.
-
-- Yjs CRDT synchronization over WebSockets.
-- Rich block-based editing with Tiptap.
-- JWT authentication and Owner / Editor / Viewer permissions.
-- Nested pages, cursor presence, and read-only share links.
-
-**Status:** In progress
-
-**Stack:** React · Node.js · Express · PostgreSQL · Yjs · Tiptap
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-**Personal Developer Website**
-
-A portfolio experience to present projects, technical skills, and professional work.
-
-- React-based frontend.
-- Backend service with PostgreSQL and Prisma.
-- JWT-protected admin functionality.
-- Resend-powered contact email workflow.
-
-**Stack:** React · PostgreSQL · Prisma · JWT · Resend
-
-**Repository / Live Demo:** Coming soon
-
-</td>
-</tr>
-</table>
+</div>
 
 ### More Projects
 
-| Project | Description | Technologies | Repository |
-|---|---|---|---|
-| **Certificate Automation** | Modular certificate generation and distribution through participant-source, template, storage, and delivery integrations. | Python | Coming soon |
-| **Digital OPD Platform** | Appointment booking, patient check-in, live queue management, and digital prescriptions with role-based workflows. | Flutter, FastAPI, Supabase | Coming soon |
-| **Ocular Allergy Management App** | Rule-based trigger detection and risk scoring, with logistic-regression-based flare prediction. | Flutter, FastAPI, PostgreSQL | Coming soon |
-| **TN-EPIC** | Tamil Nadu tourism gamification concept with AR navigation, Google Maps, and an AI guide. | Flutter, AR, Google Maps | Coming soon |
+<div align="center">
+
+<img src="assets/projects/certificate-automation.svg" alt="Certificate Automation project card" width="100%" />
+
+<img src="assets/projects/digital-opd-platform.svg" alt="Digital OPD Platform project card" width="100%" />
+
+<img src="assets/projects/ocular-allergy-app.svg" alt="Ocular Allergy Management App project card" width="100%" />
+
+<img src="assets/projects/tn-epic.svg" alt="TN-EPIC project card" width="100%" />
+
+</div>
 
 ---
 
@@ -207,6 +147,18 @@ B.Tech — Computer Science and Business Systems (CSBS)
 
 ---
 
+## 🧮 LeetCode Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Bhaargav07/">
+  <img width="80%" src="https://leetcard.jacoblin.cool/Bhaargav07?theme=dark&font=Karla&ext=heatmap" alt="LeetCode statistics" />
+</a>
+
+</div>
+
+---
+
 ## 🔗 Coding Profiles
 
 <div align="center">
@@ -227,7 +179,5 @@ B.Tech — Computer Science and Business Systems (CSBS)
 <a href="mailto:bhaargavkc@gmail.com">bhaargavkc@gmail.com</a>
 
 *Build. Learn. Improve. Repeat.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:1E3A8A,70:0F172A,100:020617&height=140&section=footer&animation=fadeIn" width="100%" />
 
 </div>
