@@ -27,7 +27,7 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 ## 👨‍💻 About Me
 
 <div align="center">
-<img src="assets/terminal-intro.svg" alt="Terminal introduction for Bhaargav K.C" width="100%" />
+<img src="investigation-graph.svg" alt="Investigation-board style profile graph for Bhaargav K.C" width="100%" />
 </div>
 
 ---
@@ -36,13 +36,9 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 <div align="center">
 
-<a href="https://github.com/bhargava562/block-safe"><img src="assets/projects/block-safe.svg" alt="Block-Safe project card" width="100%" /></a>
+<a href="https://github.com/bhargava562/block-safe"><img src="block-safe.svg" alt="Block-Safe project card" width="49%" /></a> <a href="https://github.com/bhargava562/Chakro-AI-VBDP"><img src="chakro-ai-vbdp.svg" alt="Chakro AI VBDP project card" width="49%" /></a>
 
-<a href="https://github.com/bhargava562/Chakro-AI-VBDP"><img src="assets/projects/chakro-ai-vbdp.svg" alt="Chakro AI VBDP project card" width="100%" /></a>
-
-<a href="https://github.com/BHAARGAV07/collabnotes"><img src="assets/projects/collabnotes.svg" alt="CollabNotes project card" width="100%" /></a>
-
-<img src="assets/projects/portfolio.svg" alt="Personal portfolio project card" width="100%" />
+<a href="https://github.com/BHAARGAV07/collabnotes"><img src="collabnotes.svg" alt="CollabNotes project card" width="49%" /></a> <img src="portfolio.svg" alt="Personal portfolio project card" width="49%" />
 
 </div>
 
@@ -50,13 +46,7 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 
 <div align="center">
 
-<img src="assets/projects/certificate-automation.svg" alt="Certificate Automation project card" width="100%" />
-
-<img src="assets/projects/digital-opd-platform.svg" alt="Digital OPD Platform project card" width="100%" />
-
-<img src="assets/projects/ocular-allergy-app.svg" alt="Ocular Allergy Management App project card" width="100%" />
-
-<img src="assets/projects/tn-epic.svg" alt="TN-EPIC project card" width="100%" />
+<img src="certificate-automation.svg" alt="Certificate Automation project card" width="49%" /> <img src="ocular-allergy-app.svg" alt="Ocular Allergy Management App project card" width="49%" />
 
 </div>
 
@@ -116,7 +106,7 @@ Currently exploring **React, TypeScript, Java, backend engineering, and AI-integ
 ## 🏆 Achievements & Certifications
 
 - 🥈 **Second Place** — Yet Another Hackathon 2026, SVCE.
-- 📄 **LOVRS Research Paper** — Conditionally accepted for oral presentation at ICAIMS 2026; research on a fog-aware vehicle speed advisory system.
+- 📄 **LOVRS Research Paper** — Published on IEEE Xplore; research on a fog-aware vehicle speed advisory system. [Read the paper](https://ieeexplore.ieee.org/document/11766931)
 - 💡 **Nimirndhu Nil Hackathon** — Participated in the Ideation Camp organized with EDII-TN / TNYIEDP, Thiruvallur.
 - 🎓 **Infosys Springboard** — Front-End Web Development certification.
 - ☕ **HackerRank** — Java (Basic) certification.
