@@ -2,92 +2,45 @@
 
 # Bhaargav K.C
 
-**Web Developer | Full-Stack Builder | AI Enthusiast**
+**Software Developer | Full-Stack & AI-Integrated Apps**
 
 <a href="https://github.com/BHAARGAV07"><img src="https://img.shields.io/badge/GitHub-BHAARGAV07-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://www.linkedin.com/in/bhaargav-kc-82456b28b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:bhaargavkc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1V0U3vgK3iZyQlx644J1r2Ut2P3ArtvXj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
-<img src="https://img.shields.io/badge/Chennai%2C%20India-Location-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/RMK%20Engineering%20College-CSBS-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Class%20of-2028-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20to-Internships-16A34A?style=flat-square" />
+<br />
 
-### Building useful products at the intersection of web engineering and AI.
+<img src="profile-graph.svg" alt="Profile of Bhaargav K.C: B.Tech CSBS student at R.M.K. Engineering College, Chennai (2024-2028); focus on frontend and full-stack AI-integrated apps; building with LLMs, agents and RAG; skills in Java, React, TypeScript, Python and data structures; open to internships and hackathons; 2nd place at Yet Another Hackathon and LOVRS paper on IEEE Xplore" width="100%" />
 
-I'm a **Computer Science and Business Systems student** at **R.M.K. Engineering College**. I enjoy turning ideas into practical software — from multi-agent AI platforms and scam-intelligence systems to collaborative web applications.
-
-Currently exploring **React, TypeScript, Java, backend engineering, and AI-integrated applications**.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-<img src="profile-graph.svg" alt="Investigation-board style profile graph for Bhaargav K.C" width="100%" />
 </div>
 
 ---
 
 ## `./projects`
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/terminal-root%40bhaargav%3A~%24%20ls%20.%2Fprojects-020605?style=flat-square&labelColor=020605&color=00ff9c" alt="root at bhaargav terminal prompt" />
-
-<sub><code>INDEX MODE: PRIMARY CASE FILES · ACCESS: PUBLIC · SIGNAL: STABLE</code></sub>
-
-</div>
-
-The project index is rendered as a set of terminal case files: compact evidence, capabilities, stack, and source for each build.
-
-<div align="center">
-
-<a href="https://github.com/bhargava562/block-safe"><img src="card-block-safe.svg" alt="Block-Safe project card" width="49%" /></a> <a href="https://github.com/bhargava562/Chakro-AI-VBDP"><img src="card-chakro-ai-vbdp.svg" alt="Chakro AI VBDP project card" width="49%" /></a>
-
-<a href="https://github.com/BHAARGAV07/collabnotes"><img src="card-collabnotes.svg" alt="CollabNotes project card" width="49%" /></a> <img src="card-portfolio.svg" alt="Personal portfolio project card" width="49%" />
-
-</div>
-
-### `./projects/additional`
-
-<div align="center">
-
-<sub><code>ARCHIVE // TWO ACTIVE FILES RETAINED FOR REFERENCE</code></sub>
-
-<img src="card-certificate-automation.svg" alt="Certificate Automation project card" width="49%" /> <img src="card-ocular-allergy-app.svg" alt="Ocular Allergy Management App project card" width="49%" />
-
-</div>
-
-## 🗂️ Project Assets
-
-| Asset | Purpose |
-| --- | --- |
-| [profile-graph.svg](profile-graph.svg) | Profile investigation-board overview |
-| [card-block-safe.svg](card-block-safe.svg) | Block-Safe project card |
-| [card-chakro-ai-vbdp.svg](card-chakro-ai-vbdp.svg) | Chakro AI VBDP project card |
-| [card-collabnotes.svg](card-collabnotes.svg) | CollabNotes project card |
-| [card-portfolio.svg](card-portfolio.svg) | Personal portfolio project card |
-| [card-certificate-automation.svg](card-certificate-automation.svg) | Certificate Automation project card |
-| [card-ocular-allergy-app.svg](card-ocular-allergy-app.svg) | Ocular Allergy Management App project card |
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Block-Safe** | Android-first scam detection and threat-intelligence platform. | `[add stack]` | [Repo](https://github.com/bhargava562/block-safe) |
+| **Chakro AI VBDP** | `[add one line: the problem it solves]` | `[add stack]` | [Repo](https://github.com/bhargava562/Chakro-AI-VBDP) |
+| **CollabNotes** | Notion-style real-time collaborative note-taking app. | `Yjs` `Tiptap` `Prisma` `[verify rest]` | [Repo](https://github.com/BHAARGAV07/collabnotes) |
+| **Portfolio Website** | Personal full-stack portfolio with an AI project-assistant widget. | `[add stack]` | [Repo](REPO_URL) · [Live](LIVE_URL) |
+| **Certificate Automation** | Backend-only plug-in system that generates and emails event certificates at scale. | `[add stack]` | [Repo](REPO_URL) |
+| **Ocular Allergy Management App** | Personalised allergy management app with a rule-based trigger and risk engine. | `Flutter` `FastAPI` `PostgreSQL` | [Repo](REPO_URL) |
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Java Developer Intern — Cognifyz Technologies
+### Java Developer Intern, Cognifyz Technologies
 
 *Remote · May 2025 – June 2025*
 
 - Developed Java applications applying OOP concepts including encapsulation, inheritance, polymorphism, and abstraction.
 - Practised Java Collections Framework concepts and exception handling.
 - Worked with Java I/O for file-based data persistence.
-- Completed assigned development tasks in a remote internship environment.
 
-### Web Development Intern — InternPe
+### Web Development Intern, InternPe
 
 *January 2025 – February 2025*
 
@@ -95,13 +48,13 @@ The project index is rendered as a set of terminal case files: compact evidence,
 - Improved UI consistency and layout behaviour across screen sizes.
 - Applied HTML, CSS, and JavaScript best practices.
 
-### Tech Wing Member — Google Developer Group
+### Tech Wing Member, Google Developer Group
 
 *R.M.K. Engineering College · Since May 2026*
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -127,41 +80,26 @@ The project index is rendered as a set of terminal case files: compact evidence,
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
-- 🥈 **Second Place** — Yet Another Hackathon 2026, SVCE.
-- 📄 **LOVRS Research Paper** — Published on IEEE Xplore; research on a fog-aware vehicle speed advisory system. [Read the paper](https://ieeexplore.ieee.org/document/11766931)
-- 💡 **Nimirndhu Nil Hackathon** — Participated in the Ideation Camp organized with EDII-TN / TNYIEDP, Thiruvallur.
-- 🎓 **Infosys Springboard** — Front-End Web Development certification.
-- ☕ **HackerRank** — Java (Basic) certification.
+- 📄 **LOVRS Research Paper:** published on IEEE Xplore; research on a fog-aware vehicle speed advisory system. [Read the paper](https://ieeexplore.ieee.org/document/11766931)
+- 🥈 **Second Place:** Yet Another Hackathon 2026, SVCE.
+- 🎓 **Certifications:** Infosys Springboard (Front-End Web Development) · HackerRank (Java Basic)
+- 💡 **Also:** Nimirndhu Nil Hackathon Ideation Camp, organized with EDII-TN / TNYIEDP, Thiruvallur.
 
 ---
 
-## 🎓 Education
+## Education
 
 **R.M.K. Engineering College, Chennai**
 
-B.Tech — Computer Science and Business Systems (CSBS)
+B.Tech, Computer Science and Business Systems (CSBS)
 
 2024 – 2028 · CGPA: **7.44 / 10**
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BHAARGAV07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAARGAV07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=BHAARGAV07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🧮 LeetCode Stats
+## Coding Profiles
 
 <div align="center">
 
@@ -169,13 +107,7 @@ B.Tech — Computer Science and Business Systems (CSBS)
   <img width="80%" src="https://leetcard.jacoblin.cool/Bhaargav07?theme=dark&font=Karla&ext=heatmap" alt="LeetCode statistics" />
 </a>
 
-</div>
-
----
-
-## 🔗 Coding Profiles
-
-<div align="center">
+<br />
 
 <a href="https://leetcode.com/u/Bhaargav07/">LeetCode</a> ·
 <a href="https://www.hackerrank.com/profile/bhaargavkc">HackerRank</a> ·
@@ -188,10 +120,8 @@ B.Tech — Computer Science and Business Systems (CSBS)
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Meaningful
+### Open to software developer internships
 
 <a href="mailto:bhaargavkc@gmail.com">bhaargavkc@gmail.com</a>
-
-*Build. Learn. Improve. Repeat.*
 
 </div>
