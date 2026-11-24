@@ -5,7 +5,7 @@
 **Software Developer | Full-Stack & AI-Integrated Apps**
 
 <a href="https://github.com/BHAARGAV07"><img src="https://img.shields.io/badge/GitHub-BHAARGAV07-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/bhaargav-kc-82456b28b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/bhaargav-kc/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:bhaargavkc@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1V0U3vgK3iZyQlx644J1r2Ut2P3ArtvXj/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 
